@@ -79,7 +79,6 @@ void setup() {
   pinMode(M3_Di, OUTPUT);
   pinMode(M4_Di, OUTPUT);
 
-  // Optional: initialize PWM pins (Arduino does not require pinMode for PWM)
 }
 
 void loop() {
