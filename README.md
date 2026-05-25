@@ -57,3 +57,9 @@ Coding Guidance:
 * With the Arduino unplugged from the Raspberry Pi, type "ls /dev/tty\*" and it will list the different ports. Then do the same with the Arduino plugged in. **There will be one extra and that will be put in place of "ACM0" in line 5. Without this step there is a high chance of the program not working.**
 * Copy the code from "FaceTrackingCode\_RaspberryPi" into an IDE such as Thonny (on the Raspberry Pi) and run it with the Arduino plugged in. After this unplug the Raspberry Pi from the monitor and other peripherals.
 * Make sure all of the components are connected properly and the rover will work.
+
+##Photos
+<img width="1220" height="2712" alt="Autonomus_RoverV1" src="https://github.com/user-attachments/assets/1dd95bce-eda0-4e54-97ae-fbb1b3e4df3c" />
+
+
+
