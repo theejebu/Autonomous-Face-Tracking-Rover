@@ -1,4 +1,4 @@
-# Autonomous Face Tracking Rover
+# Autonomous Face Tracking Rover 
 
 
 
@@ -58,8 +58,10 @@ Coding Guidance:
 * Copy the code from "FaceTrackingCode\_RaspberryPi" into an IDE such as Thonny (on the Raspberry Pi) and run it with the Arduino plugged in. After this unplug the Raspberry Pi from the monitor and other peripherals.
 * Make sure all of the components are connected properly and the rover will work.
 
-##Photos
-<img width="1220" height="2712" alt="Autonomus_RoverV1" src="https://github.com/user-attachments/assets/1dd95bce-eda0-4e54-97ae-fbb1b3e4df3c" />
+## Photos
+
+<img width="1220" height="656" alt="Autonomous_RoverV1" src="https://github.com/user-attachments/assets/4b2972dd-2c7e-4f99-9832-86835b24edaa" />
+
 
 
 
